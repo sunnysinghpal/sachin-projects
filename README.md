@@ -1,2 +1,2 @@
 # sachin-projects
-all my own
+my own projects based on various techs. 
